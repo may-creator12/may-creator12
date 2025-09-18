@@ -1,6 +1,6 @@
 # Hola Mundo
 ## Soy Mayra
-### lo que tu haces en un día yo lo hago en 24 horas
+###Tú haces ejercicio una hora al día, yo cargo traumas 24/7.
 **Este es un mensaje negrita**
 
 _Este es un mensaje en cursiva_ 
