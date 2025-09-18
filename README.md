@@ -1,9 +1,6 @@
 # Hola Mundo
 ## Soy Mayra
 ###Tú haces ejercicio una hora al día, yo cargo traumas 24/7.
-**Este es un mensaje negrita**
-
-_Este es un mensaje en cursiva_ 
 
 # 👋 Hola mundo temu  
 
